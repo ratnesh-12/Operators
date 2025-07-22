@@ -4,6 +4,9 @@
 # Aim:<br>
 To calculate the average marks of a student in three subjects and determine their grade based on predefined criteria.<br>
 
+# Tools used:
+Programiz online compiler
+
 # Theory:<br>
 Grading systems help evaluate academic performance. By calculating the average of marks obtained in Maths, Physics, and Chemistry, and applying conditional logic (if-else statements), the program assigns a grade:<br>
 A: 90 and above<br>
@@ -70,3 +73,6 @@ Else if x == 0 → Lies on Y-axis<br>
 Else → Lies on X-axis<br>
 Display result.<br>
 End the program.<br>
+
+# Conclusion: 
+These programs apply C++ conditionals to solve real-world problems like grade calculation, number sign check, and coordinate quadrant detection, strengthening logical thinking and decision-making skills.
