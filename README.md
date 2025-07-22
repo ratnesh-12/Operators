@@ -1,11 +1,10 @@
 # Experiment-3
+# Tools used:
+Programiz online compiler
 
 # 1. Student Grade Calculator<br>
 # Aim:<br>
 To calculate the average marks of a student in three subjects and determine their grade based on predefined criteria.<br>
-
-# Tools used:
-Programiz online compiler
 
 # Theory:<br>
 Grading systems help evaluate academic performance. By calculating the average of marks obtained in Maths, Physics, and Chemistry, and applying conditional logic (if-else statements), the program assigns a grade:<br>
